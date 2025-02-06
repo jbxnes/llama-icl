@@ -1,5 +1,7 @@
 # Evaluating the In-Context Learning Capabilities of Language Models
 
+[Google Colab Notebook](https://colab.research.google.com/drive/1OiWkYDtNowfSKLj1uapui26o-jhHJRlQ?usp=sharing)
+
 This repository provides code to evaluate LLM in-context learning performance on the **symbol removal task** from the [GPT-3 paper](https://arxiv.org/abs/2005.14165) (Figure 1.2), where the model is tasked with removing random symbols from corrupted words. This is a simple task designed to study in-context learning (ICL) capabilities of language models across different scales. 
 
 ### Results on the Llama 1B, 3B, 8B Base Models 
